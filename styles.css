@@ -1,0 +1,24 @@
+body {
+    font-family: 'DM Serif Display', serif;
+}
+
+#container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#container img {
+    width: 30%;
+    height: 30%;
+    object-fit: scale-down;
+    margin: 1.4%;
+}
+
+#container h1 {
+    width: 41%;
+    margin: left;
+    padding-bottom: 10px;
+    font-size: 40px;
+    text-transform:uppercase;
+    border-bottom: 2px solid red;
+}
